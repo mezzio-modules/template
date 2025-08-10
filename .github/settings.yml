@@ -3,7 +3,6 @@
   "description": "[WIP] Template repository for Mezzio modules"
   "homepage": "https://github.com/mezzio-modules/template"
   "topics": "ghostwriter, mezzio-modules, template, wip"
-  "private": false
   "has_issues": true
   "has_projects": false
   "has_wiki": false
