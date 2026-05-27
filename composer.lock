@@ -1044,16 +1044,16 @@
     "packages-dev": [
         {
             "name": "boundwize/structarmed",
-            "version": "0.7.12",
+            "version": "0.8.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/boundwize/structarmed.git",
-                "reference": "4932aa4d395e6ddf7dd372f8bf85a41213715bdf"
+                "reference": "313a9d05146755160a10ad6c0b82393cb91abaeb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/boundwize/structarmed/zipball/4932aa4d395e6ddf7dd372f8bf85a41213715bdf",
-                "reference": "4932aa4d395e6ddf7dd372f8bf85a41213715bdf",
+                "url": "https://api.github.com/repos/boundwize/structarmed/zipball/313a9d05146755160a10ad6c0b82393cb91abaeb",
+                "reference": "313a9d05146755160a10ad6c0b82393cb91abaeb",
                 "shasum": ""
             },
             "require": {
@@ -1106,7 +1106,7 @@
             ],
             "support": {
                 "issues": "https://github.com/boundwize/structarmed/issues",
-                "source": "https://github.com/boundwize/structarmed/tree/0.7.12"
+                "source": "https://github.com/boundwize/structarmed/tree/0.8.0"
             },
             "funding": [
                 {
@@ -1114,7 +1114,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-05-26T14:14:49+00:00"
+            "time": "2026-05-27T10:31:50+00:00"
         },
         {
             "name": "fidry/cpu-core-counter",
@@ -1183,16 +1183,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ghostwriter/coding-standard.git",
-                "reference": "33f2332341fecf8f3aaa266cd5862354a94d2c3a"
+                "reference": "a9d36ba7ed296a96b1ab498415e01970deae4405"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ghostwriter/coding-standard/zipball/33f2332341fecf8f3aaa266cd5862354a94d2c3a",
-                "reference": "33f2332341fecf8f3aaa266cd5862354a94d2c3a",
+                "url": "https://api.github.com/repos/ghostwriter/coding-standard/zipball/a9d36ba7ed296a96b1ab498415e01970deae4405",
+                "reference": "a9d36ba7ed296a96b1ab498415e01970deae4405",
                 "shasum": ""
             },
             "require": {
-                "boundwize/structarmed": "^0.7.12",
+                "boundwize/structarmed": "^0.8.0",
                 "ext-apcu": "*",
                 "ext-bcmath": "*",
                 "ext-ctype": "*",
@@ -1303,7 +1303,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-05-26T18:12:02+00:00"
+            "time": "2026-05-27T12:16:09+00:00"
         },
         {
             "name": "hamcrest/hamcrest-php",
